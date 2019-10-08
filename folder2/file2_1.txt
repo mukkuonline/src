@@ -1,1 +1,2 @@
 This is file 2-1 in src/folder2 before first commit
+This is the 2nd commit changes in src/folder2
