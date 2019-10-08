@@ -1,0 +1,1 @@
+This is file 1 in src/folder1 before first commit
